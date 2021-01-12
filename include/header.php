@@ -1,4 +1,4 @@
-
+<html lang="pt-br">
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css"/>
@@ -28,14 +28,16 @@
         </li>
     </ul>
 
+          
+          
+          
+                   
      <!--paginas paralelas-->
      <ul class="nav nav-pills">
   <li class="nav-item">
       <a class="nav-link active" href="../paginas/bootrstrap.php">Bootstrap</a>
   </li>
      </ul>
-        
-        
-        
+              
     </header>
 
