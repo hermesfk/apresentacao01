@@ -1,9 +1,8 @@
-<!DOCTYPE HTML>
-<html lang="pt-br">
+
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css"/>
-        <link rel="stylesheet" href="plugins/css/noticia.css"/>
+        <link rel="stylesheet" href="../plugins/css/header.css"/>
         <title>Blog Iniciantes</title>
     </head>
     <header>
@@ -29,7 +28,12 @@
         </li>
     </ul>
 
-          
+     <!--paginas paralelas-->
+     <ul class="nav nav-pills">
+  <li class="nav-item">
+      <a class="nav-link active" href="../paginas/bootrstrap.php">Bootstrap</a>
+  </li>
+     </ul>
         
         
         

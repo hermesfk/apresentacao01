@@ -8,10 +8,13 @@ include_once "./include/header.php";
         switch ($paginas) {
 
             case 'inicial':
-                include "paginas/inicial.php";
+                include "./paginas/inicial.php";
                 break;
-            case 'textos':
-                include "paginas/textos.php";
+            case 'bootstrap':
+                include "./paginas/bootstrap.php" ;
+                break;
+            case 'github':
+                include "";
                 break;
 
             default:
