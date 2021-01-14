@@ -142,7 +142,6 @@ h1+p, p+p {
         transition: 5s 1s $returnEasing;
     }
 }
-
 .card-info h1 {
     font-family: "Playfair Display";
     font-size: 36px;

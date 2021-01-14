@@ -1,6 +1,6 @@
 <?php
     
-include_once "./include/header.php";
+include_once "./paginas/include/header.php";
 
     if (isset($_GET['pg'])) {
         $paginas = $_GET['pg'];
@@ -27,4 +27,4 @@ include_once "./include/header.php";
     }
 
     // Footer
-include_once "paginas/include/footer.php";
+include_once "./paginas/include/footer.php";

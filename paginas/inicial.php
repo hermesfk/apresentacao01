@@ -7,7 +7,7 @@
 
 
     <div id="app" class="container">
-        <card data-image="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
+        <card url="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
         <h1 slot="header">Bootstrap</h1>
         <p slot="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
         </card>
