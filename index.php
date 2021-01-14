@@ -10,9 +10,11 @@ include_once "./paginas/include/header.php";
             case 'inicial':
                 include "./paginas/inicial.php";
                 break;
+            
             case 'bootstrap':
-                include "./paginas/bootstrap.php" ;
+                include "paginas/bootstrap.php" ;
                 break;
+            
             case 'github':
                 include "";
                 break;
@@ -23,7 +25,7 @@ include_once "./paginas/include/header.php";
         }
 
     } else {
-        include "paginas/inicial.php";
+        include "./paginas/inicial.php";
     }
 
     // Footer
