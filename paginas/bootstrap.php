@@ -14,7 +14,7 @@
                         <img class="d-block w-100" src="plugins/img/1_TJT7z7w3baYO0ON-6RbaYA.png" alt="Primeiro Slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="plugins/img/bootstrap-bom-ou-ruim.jpg" alt="Segundo Slide">
+                        <img class="d-block w-100" src="plugins/img/API-Entenda-a-Interface-de-Programacao-de-Aplicacao.png" alt="Segundo Slide">
                     </div>
 
                 </div>
@@ -41,7 +41,8 @@
     <div class="row">
         <div class="col-3">   
             <img class="img-fluid"src="../plugins/img/bootstrao-thumbnail.png" alt="" /> 
-            <h5 class="badge-info my-3">VIDEOS</h5>
+            <h5 class="badge-dark my-1 p-0 ">TUTORIAL</h5>
+            <hr>
             <ul class="list-group">
 
                 <li class="list-group-item"> <a class="btn badge-info " href="https://www.youtube.com/watch?v=qPYCnebQQ6U" role="button">HTML-CSS-JS</a> </li>
@@ -81,17 +82,56 @@
             <h3>O Bootstrap veio para resolver todos os seus problemas</h3>
             <div class="row">
                 <div class="col">
-                    <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/jsTJL6Da5wc?start=3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe class="img-fluid p-3" width="560" height="315" src="https://www.youtube.com/embed/jsTJL6Da5wc?start=3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                 </div>
                 <div class="col">
-                    <iframe class="img-fluid"width="560" height="315" src="https://www.youtube.com/embed/F1rQCCeNpwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                    <iframe class="img-fluid p-3"width="560" height="315" src="https://www.youtube.com/embed/F1rQCCeNpwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
     </div>
-    <H3 class="my-2">Características</H3>
+    <H3 class=" badge-info w-50 mx-auto my-3 py-2">Bootstrap: 5 razões para usar!</H3>
+    <hr>
+    <H5>Velocidade de desenvolvimento</H5>
     <p>
-        Tem como objetivo central fornecer ao usuário uma facilidade de desenvolvimento de layouts pré-configurados, tanto para questão de produtividade como também da questão da responsividade. Customização, responsivo e documentação são as principais características do Bootstrap.
+
+        Prazos sempre são um aspecto importante, tanto para o cliente, como para o desenvolvedor, especialmente se este é um web designer freelancer.
+
+        O Bootstrap oferece muitos trechos de CSS e JavaScript reutilizáveis, evitando que se tenha que programar do zero –  consumindo muito tempo – e que podem servir para muitas situações comuns na maior parte dos sites, requerendo apenas a utilização do HTML para integrá-los.
+    </p>
+    <H5>Compatibilidade</H5>
+    <P>Esta característica é consequência do próprio surgimento do framework, visto que seus criadores queriam resolver os dilemas entre desenvolvimento e design, bem como padronizar e unificar o que se entrega ao usuário final, independente da plataforma e navegador que ele utilize.
+
+        Na atual versão do Bootstrap, os mesmos resultados podem ser obtidos nos mais diversos e populares navegadores (Google Chrome, Firefox, Internet Explorer, Opera, Safari, etc.</P>
+    <H5>Responsividade</H5>
+    <P>
+        O crescimento dos acessos por dispositivos móveis, fez aumentar a importância do design responsivo, que dá a capacidade de um site poder ser bem visualizado em diferentes resoluções.
+
+        Mais do que isso, ele é prioritariamente orientado ao mobile, que significa que o desenvolvimento parte de um dispositivo móvel e a partir daí é adicionado um comportamento responsivo para dispositivos com resoluções e dimensões maiores, fazendo com que o resultado visual para telas menores, seja mais adequado do que o processo inverso.
+
+        O Bootstrap utiliza um poderoso sistema grid de 12 colunas!
+    </P>
+    <H5>Fácil adoção</H5>
+    <P>
+        Não exige longas curvas de aprendizado e permite até ao iniciantes obter resultados rapidamente, bastando algum conhecimento básico de HTML, CSS e JavaScript.
+
+        A quantidade de modelos, temas e ferramentas que ajudarão você a começar a criar um site, é grande, bem como no próprio site oficial há uma ótima documentação.
+
+        Se não bastasse isso, a comunidade de suporte ao bootstrap é enorme e sempre disposta a ajudar, seja através de profissionais já experientes no assunto, ou com muitos sites orientados ao uso do framework.
+    </P>
+    <h5>Personalização</h5>
+    <p>
+        Ele pode ser facilmente personalizado.
+
+        Se você não tem tempo ou disposição para criar um site a partir do zero, pode usar um template para basear o desenvolvimento, mas se quiser e/ou precisar de layout único, poderá personalizá-lo produzindo seu próprio CSS e integrá-lo ao HTML.
+
+        Mais do que isso, você não precisa usar todos os componentes presentes no Bootstrap, usando apenas os essenciais aos resultados que deseja, tornando o código do site menor e seu carregamento mais rápido.
+    </p>
+    <hr>
+    <h2 class="alert-danger w-25 mx-auto">Conclusão</h2>
+    <p>
+        Bootstrap tornou-se o framework orientado ao desenvolvimento de front-end mais popular do mundo. Isso graças a um conjunto de razões bastante objetivas que fizeram ele alcançar grande sucesso entre os desenvolvedores.
     </p>
 </div>
