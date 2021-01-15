@@ -77,5 +77,5 @@ $(function(){
     }
     currentRotation = currentRotation - rotateSlider.slideAngle;
     rotateSlider.slidesContainer.css('transform', 'translateX(-50%) rotate('+currentRotation+'deg)');
-  }, 4000);
+  }, 1000);
 });
