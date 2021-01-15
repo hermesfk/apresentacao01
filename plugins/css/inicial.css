@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300,700);
+body{
+   
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 300;
+    
+}
+#roda{
+    width: 400px;  
+}
+.rotate-slider{
+    margin: 5em auto;
+    height: 360px;
+    /* overflow: hidden; */
+    width: 480px;
+}
+.rotate-slider ul.slides{
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    top: 0;
+    left: 50%;
+    -ms-transform-origin: center center;
+    transform-origin: center center;
+    width: 100%;
+}
+.rotate-slider ul.slides.animate{
+    -webkit-transition: all 0.75s ease-in-out;
+    transition: all 0.75s ease-in-out;
+}
+.rotate-slider ul.slides a li{
+    background-position: center;
+    background-size: cover;
+    display: block;
+    color: #fff;
+    list-style: none;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    text-align: center;
+    -ms-transform-origin: bottom center;
+    transform-origin: bottom center;
+    width: 100%;
+}
+.rotate-slider ul.slides a li:nth-of-type(1){background: url('../img/GeekBlog.jpg');}
+.rotate-slider ul.slides a li:nth-of-type(2){background: url('../img/DevMedia.jpg');}
+.rotate-slider ul.slides a li:nth-of-type(3){background: url('../img/imasters.jpg');}
+.rotate-slider ul.slides a li:nth-of-type(4){background: url('../img/treinaweb.png');}
+.rotate-slider ul.slides a li:nth-of-type(5){background: url('../img/tableless.jpg');}
+.rotate-slider ul.slides a li:nth-of-type(6){background: url('../img/dafont.jpg');}
+.rotate-slider ul.slides a li .inner{
+    box-sizing: border-box;
+    padding: 2em;
+    height: 100%;
+    width: 100%;
+}
