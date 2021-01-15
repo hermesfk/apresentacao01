@@ -8,7 +8,7 @@
     </head> 
     <header>
         <!--navs primeira-->
-        <ul class="nav justify-content-end bg-light">
+            <ul class="nav justify-content-end bg-light">
             <li class="nav-item">
                 <a class="nav-link" href="https://github.com/">GitHub</a>
             </li>
