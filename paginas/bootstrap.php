@@ -16,9 +16,7 @@
                     <div class="carousel-item">
                         <img class="d-block w-100" src="plugins/img/bootstrap-bom-ou-ruim.jpg" alt="Segundo Slide">
                     </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="plugins/img/curso_o-que-e-bootstrap_1961.jpg" alt="Terceiro Slide">
-                    </div>
+
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -37,12 +35,63 @@
                 </p>
 
 
-
-
-
-
-
-
         </div>
     </div>
+    <h2 class="text-center">Conhecendo o Bootstrap</h2>
+    <div class="row">
+        <div class="col-3">   
+            <img class="img-fluid"src="../plugins/img/bootstrao-thumbnail.png" alt="" /> 
+            <h5 class="badge-info my-3">VIDEOS</h5>
+            <ul class="list-group">
+
+                <li class="list-group-item"> <a class="btn badge-info " href="https://www.youtube.com/watch?v=qPYCnebQQ6U" role="button">HTML-CSS-JS</a> </li>
+                <li class="list-group-item"> <a class="btn badge-info " href="https://www.youtube.com/watch?v=EUQCjCydGco" role="button">NETBEANS</a> </li>
+                <li class="list-group-item"> <a class="btn badge-info " href="https://www.youtube.com/watch?v=VdQklerIN2k" role="button">LARAGON</a> </li>
+                <li class="list-group-item">  <a class="btn badge-info" href="https://www.youtube.com/watch?v=n_Pioo9JZXs" role="button">FILEZILLA</a> </li>
+            </ul>
+
+        </div>
+        <div class="col">
+            <p class="text-center">
+                O que é Bootstrap?
+
+                Alguma vez você já se perguntou:
+
+                Será que não existe algo que possa facilitar minha vida na hora de desenvolver meu site?
+
+                Será que toda vez eu preciso ficar escrevendo 200 mil linhas de CSS para fazer a mesma coisa?
+
+                E para desenvolver um site responsível? Será que eu preciso criar tudo do zero?
+
+
+            </p>
+            <p>
+                Bootstrap é um framework front-end que facilita a vida dos desenvolvedores web a criar sites com tecnologia mobile (responsivo) sem ter que digitar uma linha de CSS para “fazer e acontecer”. Não é a toa que o termo “Bootstrap” em inglês significa “inicialização”, algo que possui um ponto de partida..
+
+                Além disso, o Bootstrap possui uma diversidade de componentes (plugins) em JavaScript (jQuery) que auxiliam o designer a implementar: tooltip, menu-dropdown, modal, carousel, slideshow, entre outros sem a menor dificuldade, apenas acrescentando algumas configurações no código, sem a necessidade de criar scripts e mais scripts.
+
+                Por exemplo, caso queira implementar um componente de tooltip em seu layout, sem utilizar o Bootstrap, seria necessário:
+
+                encontrar um plugin que tenha esse comportamento e que funcione com seu tema;
+                acrescentar o script ao html;
+                inicializar o plugin através de script;
+                por fim, criar uma estrutura baseada no plugin.
+                Com o Bootstrap basta apenas inicializar o script e adicionar algumas configurações no código.
+            </p>
+            <h3>O Bootstrap veio para resolver todos os seus problemas</h3>
+            <div class="row">
+                <div class="col">
+                    <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/jsTJL6Da5wc?start=3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                </div>
+                <div class="col">
+                    <iframe class="img-fluid"width="560" height="315" src="https://www.youtube.com/embed/F1rQCCeNpwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <H3 class="my-2">Características</H3>
+    <p>
+        Tem como objetivo central fornecer ao usuário uma facilidade de desenvolvimento de layouts pré-configurados, tanto para questão de produtividade como também da questão da responsividade. Customização, responsivo e documentação são as principais características do Bootstrap.
+    </p>
 </div>
