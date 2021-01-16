@@ -3,8 +3,8 @@ body{
    
     font-family: 'Roboto Slab', sans-serif;
     font-weight: 300;
-    
-    
+    overflow: hidden
+
 }
 
 
@@ -13,6 +13,7 @@ body{
     height: 240px;
     /* overflow: hidden; */
     width: 360px;
+  
    
 }
 .rotate-slider ul.slides{

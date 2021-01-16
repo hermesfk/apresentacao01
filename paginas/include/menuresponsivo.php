@@ -3,24 +3,22 @@
 
 <div class="menures">
 
-            <div class="navbar"></div>
-            <div class="circle"></div>
-            
-            <div class="menu">
-                <ul>
-                    <li><a href="">About</a></li>
-                    <li><a href="">Share</a></li>
-                    <li><a href="">Activity</a></li>
-                    <li><a href="">Settings</a></li>
-                    <li><a href="">Contact</a></li>
-                </ul>
-            </div>			            
-            <div class="burger">
-                <div class="x"></div>
-                <div class="y"></div>
-                <div class="z"></div>
-            </div>    
+    <div class="navbar"></div>
+    <div class="circle"></div>
 
-        </div>
-
-
+    <div class="menu">
+        <ul>
+            <li><a href="?pg=inicial">Home</a></li>
+            <li><a  href="?pg=bootstrap">Bootstrap</a></li>
+            <li><a  href="?pg=github">GitHub</a></li>
+            <li><a  href="?pg=codepen">Codepen</a></li>
+            <li><a  href="?pg=Sobre">Sobre</a></li>
+            <li><a href="?pg=contato">Contato</a></li>
+        </ul>
+    </div>			            
+    <div class="burger">
+        <div class="x"></div>
+        <div class="y"></div>
+        <div class="z"></div>
+    </div>    
+</div>

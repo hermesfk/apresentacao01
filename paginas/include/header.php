@@ -34,7 +34,7 @@
                             <a class="nav-link" href="">Facebook</a>
                         </li>
                         <li class="nav-link">
-                            <a class="nav-link" href="">Instgram </a>
+                            <a class="nav-link" href="">Instagram </a>
                         </li>
                     </div>
                 </div>

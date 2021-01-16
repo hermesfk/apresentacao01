@@ -19,6 +19,10 @@ include_once "./paginas/include/menuresponsivo.php";
             case 'github':
                 include "";
                 break;
+            
+            case 'codepen':
+                include "./paginas/codepen.php";
+                break;
 
             default:
                 echo "pagina não Definida";
