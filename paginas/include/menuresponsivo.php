@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="plugins/css/menu.css"/>
 
-<div>
+<div class="menures">
 
             <div class="navbar"></div>
             <div class="circle"></div>

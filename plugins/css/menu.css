@@ -133,6 +133,8 @@ div.circle.expand{
 	height: 500px;
 	top: 50px;
 	left: -100px; 	
+        position: absolute;
+        z-index: 1;
 	-webkit-transition: all 400ms cubic-bezier(0.000, 0.995, 0.990, 1.000);
 	   -moz-transition: all 400ms cubic-bezier(0.000, 0.995, 0.990, 1.000);
 	    -ms-transition: all 400ms cubic-bezier(0.000, 0.995, 0.990, 1.000);
@@ -143,12 +145,13 @@ div.circle.expand{
 div.menu {
 	height: 568px; 
 	width: 320px;
-	position: absolute;
+	position: absolute;      
 	top: 0px; left: 0px;
 }
 div.menu ul li {
 	list-style: none;
 	position:absolute;
+        z-index: 1;
 	top:50px;;
 	left:0;
 	opacity:0;
@@ -206,3 +209,5 @@ div.menu li.animate:nth-of-type(6){
 	transition-delay: 0.15s;	
 			
 }
+
+
