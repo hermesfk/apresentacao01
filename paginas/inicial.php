@@ -10,17 +10,17 @@
 
                     <div class="rotate-slider">
                         <ul class="slides">
-                            <a href="https://www.geekhunter.com.br/"><li><div class="inner"></div></li></a>
+                            <a href="https://www.geekhunter.com.br/"><li><div class="inner">1</div></li></a>
 
-                            <a href="https://www.devmedia.com.br/artigos/"><li><div class="inner"></div></li></a>
+                            <a href="https://www.devmedia.com.br/artigos/"><li><div class="inner">2</div></li></a>
 
-                            <a href="https://imasters.com.br/" ><li><div class="inner"></div></li></a>
+                            <a href="https://imasters.com.br/" ><li><div class="inner">3</div></li></a>
 
-                            <a href="https://www.treinaweb.com.br/blog/" ><li><div class="inner"></div></li></a>
+                            <a href="https://www.treinaweb.com.br/blog/" ><li><div class="inner">4</div></li></a>
 
-                            <a href="https://tableless.com.br/"><li><div class="inner"></div></li></a>
+                            <a href="https://tableless.com.br/"><li><div class="inner">5</div></li></a>
 
-                            <a href="https://www.dafont.com/pt/" ><li><div class="inner"></div></li></a>
+                            <a href="https://www.dafont.com/pt/" ><li><div class="inner">6</div></li></a>
                         </ul>
                     </div>
                     <svg>
@@ -33,7 +33,7 @@
 
                 </div>
 
-                <div class="col-5">               
+                <div class="col-5 mt-5">               
                     <h1 class="title"> <strong>Ultimas Notícias</strong> </h1>
                     <br>
                     <card data-image="https://images.unsplash.com/photo-1479660656269-197ebb83b540?dpr=2&auto=compress,format&fit=crop&w=1199&h=798&q=80&cs=tinysrgb&crop=">
@@ -58,14 +58,4 @@
 
             </div>  
 
-
-
-
-
-
-
-
-
-        </div>
-
-    </div>
+	
