@@ -20,7 +20,7 @@
 
                             <a href="https://tableless.com.br/"><li><div class="inner"></div></li></a>
 
-                            <a href="https://developer.mozilla.org/pt-BR/" ><li><div class="inner"></div></li></a>
+                            <a href="https://www.dafont.com/pt/" ><li><div class="inner"></div></li></a>
                         </ul>
                     </div>
                     <svg>
