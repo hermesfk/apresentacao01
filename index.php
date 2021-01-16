@@ -1,6 +1,7 @@
 <?php
     
 include_once "./paginas/include/header.php";
+include_once "./paginas/include/menuresponsivo.php";
 
     if (isset($_GET['pg'])) {
         $paginas = $_GET['pg'];

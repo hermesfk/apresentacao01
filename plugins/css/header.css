@@ -1,9 +1,23 @@
 
-html { 
-  background: url(https://lh3.googleusercontent.com/proxy/_9ziAP5dFWfQrQsXHceiB8b3hK6Kdy9Mc6iTEAxCX5FL0aUrlVrCOlztMq_docMgW2WiC7QnkOmSyjl-4HdlAEpjja-wODPdncdCoS-CjEg820rar6YGLm4NbqdEjvJkNpy3AqmPpgtGROw19H3HGAY) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  overflow: hidden;
+html {
+    background:url(../img/image_1024.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;   
+
 }
+ul {
+    border-radius: 10px;
+
+}
+
+body {
+    margin: 0 auto;       
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    overflow: hidden;
+}
+
+
