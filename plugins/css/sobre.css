@@ -4,9 +4,19 @@
 
 #sobre {
    overflow-y: scroll;
-   overflow-x: hidden;X
+   overflow-x: hidden;
     height: 500px;
    
+}
+
+.textosobre{
+    width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+        
 }
 
 #aboutPage .pageTitle {
@@ -64,8 +74,9 @@ text-shadow: 1px 1px 41px #000;
   width: 310px;
   height: 160px;
   position: relative;
-  background: url(../img/blindspot-001.jpg);
+  background: #fff;
 }
+
 
 
 .aboutHeader .headerProfile {
@@ -74,7 +85,6 @@ text-shadow: 1px 1px 41px #000;
  border-radius: 100%;
  background: #fff;
  box-shadow: 1px 1px 10px 1px #666;
- width: 100px
  cursor: pointer;
 }
 
@@ -195,12 +205,7 @@ text-shadow: 1px 1px 41px #000;
   border: 1px solid #666;
   color: #fff;
 }
-
-.twitterIcon {
-  content: url(https://www.corujalivraria.com.br/assets/twitter-icon-a7d78a313aebc7b78923dc06b614c30d.png);
-  width: 40px;
-}
-
+    
 .card-front {
   z-index: 10;
 }
@@ -352,7 +357,9 @@ text-shadow: 1px 1px 41px #000;
   -moz-animation-name: fadeInLeft;
   -o-animation-name: fadeInLeft;
   animation-name: fadeInLeft;
-  margin-top: 25px
+  margin-top: 25px;
+  position: absolute;
+   z-index: 1;
   
 }
 
@@ -372,16 +379,3 @@ text-shadow: 1px 1px 41px #000;
 	-o-animation-name: fadeInUp;
 	animation-name: fadeInUp;
 }
-
-
--moz-keyframes fadeInLeft {
-  0% {
-    opacity: 0;
-    -moz-transform: translateX(-20px);
-  }
-  100% {
-    opacity: 1;
-    -moz-transform: translateX(0);
-  }
-}
-    
