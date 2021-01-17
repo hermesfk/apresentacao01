@@ -13,11 +13,11 @@ include_once "./paginas/include/menuresponsivo.php";
                 break;
             
             case 'bootstrap':
-                include "paginas/bootstrap.php" ;
+                include "paginas/bootstrap_1.php" ;
                 break;
             
             case 'github':
-                include "";
+                include "paginas/github.php";
                 break;
             
             case 'codepen':

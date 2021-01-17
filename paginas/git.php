@@ -1,4 +1,7 @@
-<div class="container">
+<link rel="stylesheet" href="plugins/css/bootstrap.css"/>
+
+
+<div class="container" id="bootstrap">
     <div class="row">
         <div class="col">            
 
