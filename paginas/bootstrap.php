@@ -1,4 +1,6 @@
-<div class="container text-center">
+<link rel="stylesheet" href="plugins/css/bootstrap.css"/>
+
+<div  class="container text-center" id="bootstrap">
     <div class="row">
         <div class="col">
             <h1> Como surgiu o <a href="https://getbootstrap.com.br/">Bootstrap?</a></h1>

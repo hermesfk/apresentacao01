@@ -23,6 +23,10 @@ include_once "./paginas/include/menuresponsivo.php";
             case 'codepen':
                 include "./paginas/codepen.php";
                 break;
+            
+            case 'sobre':
+                include "./paginas/sobre.php";
+                break;
 
             default:
                 echo "pagina não Definida";
