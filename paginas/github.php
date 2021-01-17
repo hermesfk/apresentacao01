@@ -100,5 +100,5 @@
     </div>
 
 
-    <p class="final mt-5" >Continua nos próximos capítulos... </p>
+    <p class="final mt-5" >Continua nos próximos capítulos...  _Pedro Victor_</p>
 </div>
