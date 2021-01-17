@@ -13,7 +13,7 @@
             <li><a  href="?pg=github">GitHub</a></li>
             <li><a  href="?pg=codepen">Codepen</a></li>
             <li><a  href="?pg=sobre">Sobre</a></li>
-            <li><a href="?pg=contato">Contato</a></li>
+
         </ul>
     </div>			            
     <div class="burger">

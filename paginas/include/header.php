@@ -5,6 +5,8 @@
         <link rel="stylesheet" href="plugins/css/header.css"/>
         <link rel="stylesheet" href="plugins/css/inicial.css"/>
         <link rel="stylesheet" href="plugins/icomoon/style.css"/>
+       
+
         
 
         <title>Blog Iniciantes</title>
@@ -18,24 +20,27 @@
                 
 
                 <div class="col-11">
-                    <div class="row justify-content-end">
+                    <div class="row justify-content-end mr-2">
                         <li class="nav-link">
-                            <a class="nav-link" href="https://github.com/">GitHub</a>
+                            <a class="nav-link" href="?pg=inicial"><i class="icon-pinboard"></i></a>
                         </li>
                         <li class="nav-link">
-                            <a class="nav-link" href="">Codepen</a>
+                            <a class="nav-link" href="https://github.com/"><i class="icon-github"></i></a>
                         </li>
                         <li class="nav-link">
-                            <a class="nav-link" href="">Likedin</a>
+                            <a class="nav-link" href="https://codepen.io/"><i class="icon-codepen"></i></a>
                         </li>
                         <li class="nav-link">
-                            <a class="nav-link" href="">Twiter</a>
+                            <a class="nav-link" href="https://br.linkedin.com/"><i class="icon-linkedin"></i></a>
                         </li>
                         <li class="nav-link">
-                            <a class="nav-link" href="">Facebook</a>
+                            <a class="nav-link" href="https://twitter.com/login?lang=pt"><i class="icon-twitter"></i></a>
                         </li>
                         <li class="nav-link">
-                            <a class="nav-link" href="">Instagram </a>
+                            <a class="nav-link" href="https://web.facebook.com/"><i class="icon-facebook"></i></a>
+                        </li>
+                        <li class="nav-link">
+                            <a class="nav-link" href="https://www.instagram.com/"><i class="icon-instagram"></i></a>
                         </li>
                     </div>
                 </div>

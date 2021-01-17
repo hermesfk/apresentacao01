@@ -41,7 +41,7 @@
 
                         </div>
                         <div class="socialIcons">
-                            <a href=""><i class="icon-facebook"></i></i></a>
+                            <a href=""><i class="icon-facebook"></i></a>
                             <a href=""><i class="icon-twitter"></i></a>
                             <a href=""><i class="icon-gmail"></i></a>
                             <a href=""><i class="icon-github"></i></a>

@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300,700);
 body{
-   
+
     font-family: 'Roboto Slab', sans-serif;
     font-weight: 300;
     overflow: hidden
@@ -8,15 +8,13 @@ body{
 }
 
 
-
-
 .rotate-slider{
     margin: 5em auto;
     height: 240px;
     /* overflow: hidden; */
     width: 360px;
-  
-   
+
+
 }
 .rotate-slider ul.slides{
     height: 100%;
@@ -49,15 +47,34 @@ body{
     transform-origin: bottom center;
     width: 100%;
 }
-.rotate-slider ul.slides a li:nth-of-type(1){background: url('../img/GeekBlog.jpg');}
-.rotate-slider ul.slides a li:nth-of-type(2){background: url('../img/DevMedia.jpg');}
-.rotate-slider ul.slides a li:nth-of-type(3){background: url('../img/imasters.jpg');}
-.rotate-slider ul.slides a li:nth-of-type(4){background: url('../img/treinaweb.png');}
-.rotate-slider ul.slides a li:nth-of-type(5){background: url('../img/tableless.jpg');}
-.rotate-slider ul.slides a li:nth-of-type(6){background: url('../img/dafont.jpg');}
-.rotate-slider ul.slides a li .inner{
-    box-sizing: border-box;
-    padding: 2em;
-    height: 100%;
-    width: 100%;
+.rotate-slider ul.slides a li .inner {
+    background: url('../img/GeekBlog.jpg');
+    height: 400px;
+    width: 300px;
 }
+
+.rotate-slider ul.slides a li .innera {
+    background: url('../img/DevMedia.jpg');
+    height: 400px;
+    width: 300px;
+}
+.rotate-slider ul.slides a li .innere {
+    background: url('../img/imasters.jpg');
+    height: 400px;
+    width: 300px;}
+
+.rotate-slider ul.slides a li .inneri {
+    background: url('../img/treinaweb.png');
+    height: 400px;
+    width: 300px;
+}
+
+.rotate-slider ul.slides a li .innero {
+    background: url('../img/tableless.jpg');
+    height: 400px;
+    width: 300px;
+}
+.rotate-slider ul.slides a li .inneru {
+    background: url('../img/developer.png');
+    height: 400px;
+    width: 300px;}

@@ -10,17 +10,13 @@
 
                     <div class="rotate-slider">
                         <ul class="slides">
-                            <a href="https://www.geekhunter.com.br/"><li><div class="inner">1</div></li></a>
-
-                            <a href="https://www.devmedia.com.br/artigos/"><li><div class="inner">2</div></li></a>
-
-                            <a href="https://imasters.com.br/" ><li><div class="inner">3</div></li></a>
-
-                            <a href="https://www.treinaweb.com.br/blog/" ><li><div class="inner">4</div></li></a>
-
-                            <a href="https://tableless.com.br/"><li><div class="inner">5</div></li></a>
-
-                            <a href="https://developer.mozilla.org/pt-BR/" ><li><div class="inner">6</div></li></a>
+                            <a href="https://www.geekhunter.com.br/"><li><div class="inner"></div></li></a>
+                            <a href="https://www.devmedia.com.br/artigos/"><li><div class="innera"></div></li></a>
+                            <a href="https://imasters.com.br/"><li><div class="innere"></div></li></a>
+                            <a href="https://www.treinaweb.com.br/blog/"><li><div class="inneri"></div></li></a>
+                            <a href="https://tableless.com.br/"><li><div class="innero"></div></li></a>
+                            <a href="https://developer.mozilla.org/pt-BR/"><li><div class="inneru"></div></li></a>
+                         
                         </ul>
                     </div>
                     <svg>
@@ -49,10 +45,7 @@
                     <a class="text-white" href="?pg=codepen"><h1 slot="header"><strong>Codepen</strong></h1></a>
                     <p slot="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     </card>
-                    <card data-image="https://images.unsplash.com/photo-1479621051492-5a6f9bd9e51a?dpr=2&auto=compress,format&fit=crop&w=1199&h=811&q=80&cs=tinysrgb&crop=">
-                    <h1 slot="header"><strong>Visual Studio Code</strong></h1>
-                    <p slot="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    </card>
+                    
                 </div>
 
 

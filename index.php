@@ -27,6 +27,10 @@ include_once "./paginas/include/menuresponsivo.php";
             case 'sobre':
                 include "./paginas/sobre.php";
                 break;
+            
+            case 'contato':
+                include "./paginas/contato.php";
+                break;
 
             default:
                 echo "pagina não Definida";
