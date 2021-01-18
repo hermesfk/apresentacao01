@@ -36,35 +36,35 @@
             <div class="col-9 m-auto">
                 <div class="row">
                     <div class="col">
-                        <p>1- Abra o netbeans, vá em ferramenta:</p>
-                        <img class="img-fluid" src="plugins/img/passo1.png" alt="" />
+                        <p>1- Para iniciar, abra o netbeans (ou ide que será utilizada no meu caso irei usar o netbeans):</p>
+                        <img class="img-fluid" src="plugins/img/passo1.png" alt="" />                         
+                        <p>3- Plug-ins disponíveis:</p>
+                        <img class="img-fluid" src="plugins/img/passo3.png" alt="" />
+                        <p>Marque as 3 opções das seguintes ferramentas mostradas abaixo e clique em instalar:</p>
+                        <img class="img-fluid" src="plugins/img/passo6.png" alt="" />
+                        <img class="img-fluid" src="plugins/img/passo7.png" alt="" />
+                        <p>6- Em seguida, instalar:</p>
+                        <img class="img-fluid" src="plugins/img/passo11.png" alt="" />
+
                     </div>
-                    <p>3- Plug-ins disponíveis:</p>
-                    <img class="img-fluid" src="plugins/img/passo3.png" alt="" />
                     <div class="col">
-
+                        <p>2- vá em ferramentas</p>
+                        <img class="img-fluid" src="plugins/img/passo2.png" alt="" />
+                        <p>4-Na barra de pesquisa, escreva git: </p>
+                        <img class="img-fluid" src="plugins/img/passo5.png" alt="" />
+                        <p>5- Clique em Próximo:</p>
+                        <img class="img-fluid" src="plugins/img/passo8.png" alt="" />
+                        <p>7-Continuar:</p>
+                        <img class="img-fluid" src="plugins/img/passo12.png" alt="" />
                     </div>
-                </div>
-
-
-                <p></p>
-                <img class="img-fluid" src="plugins/img/passo2.png" alt="" />          
-
-                <p>4-Ir na barra de pesquisa, nela escrever git e marcar as 3 opções mostradas abaixo e instalar: </p>
-                <img class="img-fluid" src="plugins/img/passo5.png" alt="" />          
-                <img class="img-fluid" src="plugins/img/passo6.png" alt="" />          
-                <img class="img-fluid" src="plugins/img/passo7.png" alt="" />            
-                <p>5-Próximo:</p>
-                <img class="img-fluid" src="plugins/img/passo8.png" alt="" />  
-                <p>6-instalar:</p>
-                <img class="img-fluid" src="plugins/img/passo11.png" alt="" />
-                <p>7-Continuar:</p>
-                <img class="img-fluid" src="plugins/img/passo12.png" alt="" />
-                <p>8-Finalizar e fechar a janela:</p>            
-                <img class="img-fluid" src="plugins/img/passo13.png" alt="" />                                    
-                <img class="img-fluid" src="plugins/img/passo14.png" alt="" />                
+                    <div class="col">
+                        <p>8-Finalizar e fechar a janela:</p>            
+                        <img class="img-fluid" src="plugins/img/passo13.png" alt="" />                                    
+                        <img class="img-fluid" src="plugins/img/passo14.png" alt="" />
+                    </div>
+                </div>              
             </div>
-            <p>Feito isso, </p>
+            <p>Feito iss... </p>
         </div>
     </div>
 </div>
