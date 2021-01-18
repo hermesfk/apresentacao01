@@ -31,78 +31,40 @@
 
             <h3>Passo-a-passo: </h3>
 
-
+            <p>Logo após abrir o Netbeans RC, clicando na opção ferramentas você precisará baixar alguns plugins e instalá-los para utilizar o git, pois, apenas assim poderá desfrutar das ferramentas. Veja os passos a seguir para instalar os plugins:</p> 
 
             <div class="col-9 m-auto">
-
-                <!--                //slide-->
-                <div class="bd-example">
-                    <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
-                        <ol class="carousel-indicators">
-                            <li data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active"></li>
-                            <li data-bs-target="#carouselExampleDark" data-bs-slide-to="1"></li>
-                            <li data-bs-target="#carouselExampleDark" data-bs-slide-to="2"></li>
-                        </ol>
-                        <div class="carousel-inner">
-                            <div class="carousel-item active" data-bs-interval="10000">
-                                <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: First slide" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#f5f5f5"/><text x="50%" y="50%" fill="#aaa" dy=".3em">First slide</text></svg>
-
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>First slide label</h5>
-                                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item" data-bs-interval="2000">
-                                <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Second slide" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#bbb" dy=".3em">Second slide</text></svg>
-
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Second slide label</h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#e5e5e5"/><text x="50%" y="50%" fill="#999" dy=".3em">Third slide</text></svg>
-
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Third slide label</h5>
-                                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <a class="carousel-control-prev" href="#carouselExampleDark" role="button" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#carouselExampleDark" role="button" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </a>
+                <div class="row">
+                    <div class="col">
+                        <p>1- Abra o netbeans, vá em ferramenta:</p>
+                        <img class="img-fluid" src="plugins/img/passo1.png" alt="" />
                     </div>
-                    <!--fim do slide-->
-
-                    <p>Logo após abrir o Netbeans RC, clicando na opção ferramentas você precisará baixar alguns plugins e instalá-los para utilizar o git, pois, apenas assim poderá desfrutar das ferramentas. Veja os passos a seguir para instalar os plugins:</p>
-
-                    <p>1- Abra o netbeans, vá em ferramenta:</p>
-                    <img class="img-fluid" src="plugins/img/passo1.png" alt="" />
-                    <p></p>
-                    <img class="img-fluid" src="plugins/img/passo2.png" alt="" />          
                     <p>3- Plug-ins disponíveis:</p>
                     <img class="img-fluid" src="plugins/img/passo3.png" alt="" />
-                    <p>4-Ir na barra de pesquisa, nela escrever git e marcar as 3 opções mostradas abaixo e instalar:                </p>
-                    <img class="img-fluid" src="plugins/img/passo5.png" alt="" />          
-                    <img class="img-fluid" src="plugins/img/passo6.png" alt="" />          
-                    <img class="img-fluid" src="plugins/img/passo7.png" alt="" />            
-                    <p>5-Próximo:</p>
-                    <img class="img-fluid" src="plugins/img/passo8.png" alt="" />  
-                    <p>6-instalar:</p>
-                    <img class="img-fluid" src="plugins/img/passo11.png" alt="" />
-                    <p>7-Continuar:</p>
-                    <img class="img-fluid" src="plugins/img/passo12.png" alt="" />
-                    <p>8-Finalizar e fechar a janela:</p>            
-                    <img class="img-fluid" src="plugins/img/passo13.png" alt="" />                                    
-                    <img class="img-fluid" src="plugins/img/passo14.png" alt="" />                
+                    <div class="col">
+
+                    </div>
                 </div>
-                <p>Feito isso, </p>
+
+
+                <p></p>
+                <img class="img-fluid" src="plugins/img/passo2.png" alt="" />          
+
+                <p>4-Ir na barra de pesquisa, nela escrever git e marcar as 3 opções mostradas abaixo e instalar: </p>
+                <img class="img-fluid" src="plugins/img/passo5.png" alt="" />          
+                <img class="img-fluid" src="plugins/img/passo6.png" alt="" />          
+                <img class="img-fluid" src="plugins/img/passo7.png" alt="" />            
+                <p>5-Próximo:</p>
+                <img class="img-fluid" src="plugins/img/passo8.png" alt="" />  
+                <p>6-instalar:</p>
+                <img class="img-fluid" src="plugins/img/passo11.png" alt="" />
+                <p>7-Continuar:</p>
+                <img class="img-fluid" src="plugins/img/passo12.png" alt="" />
+                <p>8-Finalizar e fechar a janela:</p>            
+                <img class="img-fluid" src="plugins/img/passo13.png" alt="" />                                    
+                <img class="img-fluid" src="plugins/img/passo14.png" alt="" />                
             </div>
+            <p>Feito isso, </p>
         </div>
     </div>
+</div>
