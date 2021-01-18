@@ -1,7 +1,8 @@
 footer{
-    margin: o auto;
-    position: absolute;
-    
-        
-       
+    margin: auto;
+    margin-top: 10px;
+    height: 100px;
+    width: 1000px;
+    font-family: cursive
+      
 }

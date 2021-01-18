@@ -1,14 +1,17 @@
-<div>
-    
-    <ul class="nav justify-content-end bg-light">
-        <li>Hermes Vas Pereira</li>
-        <li>Pedro Victor</li>
-        <li>Semíramis Cavalcanti</li>
+<link rel="stylesheet" href="plugins/css/footer.css"/>
+<footer>
+<div class="container btn btn-light">
+    <div class="row">
+                  
+        <div class="col"><h5> Alunos:</h5></div>
+        <div class="col"><h6>Semíramis Cavalcanti</h6></div>
+        <div class="col"><h6>Hermes Vas Pereira</h6></div>
+        <div class="col"><h6>Pedro Victor</h6></div>
+        <div class="col"><h6>"Primeiro Projeto em Grupo"</h6></div>
         
-    </ul>
-    
-    
-    
+    </div>
+</footer>
+
 </div>
 
 

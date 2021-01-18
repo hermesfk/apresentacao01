@@ -31,11 +31,26 @@
                 <p class="answer text-justify">Assim, de primeira, ótimo quando pega. As vezes da problema na trasferência, outras o problema é
                 entre a cadeira e o computador, ou simplesmente não pega, não sei o porquê  e ainda não descobrir ( e se você souber, por favor
                 pode me dizer!)
-                </p>
-                <p>¿Sólo dos abandonos?</p>
-                <p class="answer text-justify">Sim, uno me fui porque me pagaban y otro por culpa de un error de mi director, Luis Puig, que se equivocó y me pincho mal.</p>
-                <p>¿Cómo?</p>   
-                <p class="answer text-justify">Sí, fue en 1957. Yo me ponía unas inyecciones de calcio y vitamina C justo antes de los Pirineos. Pero Puig me pinchó mal y me puso el líquido fuera de la vena. Se me hinchó todo el brazo y tuve que abandonar. ¡Y eso que iba cuarto, con todos los Pirineos por delante para remontar! Ese año podía haber ganado más fácil que en 1959.</p>
+                </p>                
+                <p class="answer text-justify">Quando conseguimos de primeira, MARAVILHA! Mas quando não, e somos perseverantes, até depois desistir.
+                    Ou não! Mas digo perseverantes em buscar os erros, em buscar do que cada código representa e/ou influencia. E é nesta busca que 
+                    está o aprendizado. Mesmo que não fique igual, mesmo que acabe desistindo, ainda assim o ganho do conhecimento valerá a pena. </p>  
+                <p class="answer text-justify">Exceto realmente que não se haja tempo para esta (abre aspas) "perca de tempo", entre aspas porque ao 
+                    não será realmente perda mas sim ganho, mas as vezes o prazo não nos permite, então buscamos outros até que funcione de primeira.</p>
+                <p class="answer text-justify">Particurlamente no desenvolvimento deste trabalho admito ter ganho bastante quebrando a cabeça,
+                detalhes a parte de querer jogar o computador na parede, desistir de tudo, de me animar com um mísero acerto, ou na qualidade
+                além de esperado "por mim mesma".</p>
+                <p>Por exemplo:</p>
+                <p class="answer text-justify">Aprendemos: <br> "position:absolute / position:relative", <br> mas sabes para que serve "z-index: -1;"? 
+                <br>Quando temos dois componetes com "position:absolute" utilizamos <br> "z-index: 1;" e "z-index: -1;" <br> para definir a prioridade de
+                sobreposição.</p>
+                <p class="answer text-justify">E mais, vi a utilização maior do " class="circle" ".</p>
+                <p class="answer text-justify">Enfim, apesar do copia, cola, testa, apaga, testa, crl+z, apaga outra coisa, testa, F12 - verifica- olha-olha- e olha de novo,
+                volta, modifica, testa, pegou? sim! Aewwwwwwwww! / ou / não! então volta, apaga, testa, f12 olha-olha, modifica, testa......</p>
+                <p class="answer text-justify">Vale realmente o uso do Codepen, tanto para aprender, para "fork" ou até mesmo se promover profissionalmente.
+                Pois da mesma forma que podes seguir e ser seguido, o teu trabalho estará sendo usado e visto por pessoas de várias localidades!</p>
+                <p>Por fim, a todos 
+                    <br> "Bons estudos" e "Sucesso"</p>
             </section>
         </section>
     </section>
